@@ -62,7 +62,7 @@ body {
   color: var(--white);
   cursor: pointer;
 }
-.portfolio-header {
+.portfolio-title {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -104,7 +104,7 @@ body {
   text-transform: uppercase;
   color: var(--nav_gray);
 }
-.gallery-header {
+.title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
