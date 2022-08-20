@@ -152,7 +152,7 @@ body {
   color: var(--blue);
 }
 .list {
-  list-style: none;
+  list-style-type: none;
 }
 .link.active {
   color: var(--blue);
